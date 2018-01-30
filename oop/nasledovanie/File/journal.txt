@@ -1,0 +1,2 @@
+[2018-01-30_06:34:58 jouoronal] First string
+[2018-01-30_06:35:34 jouoronal] Second string
